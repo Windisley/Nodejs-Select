@@ -1,4 +1,5 @@
-# Gerenciador de Conexão com Banco de Dados MySQL com NodeJs ![image](https://github.com/user-attachments/assets/cdb7c4a6-24da-4aa0-a1e7-ea63b0054ebd)
+# Gerenciador de Conexão com Banco de Dados MySQL com NodeJs ![Icone NodeJs](https://github.com/user-attachments/assets/2a7f510a-588b-425e-be1a-34ce86350493)
+
 
 
 Este projeto é um módulo Node.js que realiza a conexão com um banco de dados MySQL e executa consultas de forma assíncrona. Ele utiliza a biblioteca `mysql2/promise` para garantir operações rápidas e eficazes. O objetivo principal é gerenciar conexões de forma eficiente, permitindo consultas reutilizáveis, como listar dados da tabela `pessoas`.
